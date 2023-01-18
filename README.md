@@ -1,5 +1,12 @@
 # xke-apres-ski
-XKE Apres Ski
+This repos was used to create and support a Xebia Knowledge Exchange session.
+
+I've used the following to create an Apres Ski story around music data:
+- Spotify & Lyrics Genius data
+- seaborn & plotly visualization
+- Spacy (Python) and R NLP tools to create comparison word clouds
+- Custom code to make things nicer to present
+
 
 ## Possible Next Steps:
 
